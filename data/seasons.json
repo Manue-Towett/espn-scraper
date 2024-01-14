@@ -1,0 +1,112 @@
+[
+    {
+        "value": 2024,
+        "formattedValue": "2023-24",
+        "paramValue": 2024
+    },
+    {
+        "value": 2023,
+        "formattedValue": "2022-23",
+        "paramValue": 2023
+    },
+    {
+        "value": 2022,
+        "formattedValue": "2021-22",
+        "paramValue": 2022
+    },
+    {
+        "value": 2021,
+        "formattedValue": "2020-21",
+        "paramValue": 2021
+    },
+    {
+        "value": 2020,
+        "formattedValue": "2019-20",
+        "paramValue": 2020
+    },
+    {
+        "value": 2019,
+        "formattedValue": "2018-19",
+        "paramValue": 2019
+    },
+    {
+        "value": 2018,
+        "formattedValue": "2017-18",
+        "paramValue": 2018
+    },
+    {
+        "value": 2017,
+        "formattedValue": "2016-17",
+        "paramValue": 2017
+    },
+    {
+        "value": 2016,
+        "formattedValue": "2015-16",
+        "paramValue": 2016
+    },
+    {
+        "value": 2015,
+        "formattedValue": "2014-15",
+        "paramValue": 2015
+    },
+    {
+        "value": 2014,
+        "formattedValue": "2013-14",
+        "paramValue": 2014
+    },
+    {
+        "value": 2013,
+        "formattedValue": "2012-13",
+        "paramValue": 2013
+    },
+    {
+        "value": 2012,
+        "formattedValue": "2011-12",
+        "paramValue": 2012
+    },
+    {
+        "value": 2011,
+        "formattedValue": "2010-11",
+        "paramValue": 2011
+    },
+    {
+        "value": 2010,
+        "formattedValue": "2009-10",
+        "paramValue": 2010
+    },
+    {
+        "value": 2009,
+        "formattedValue": "2008-09",
+        "paramValue": 2009
+    },
+    {
+        "value": 2008,
+        "formattedValue": "2007-08",
+        "paramValue": 2008
+    },
+    {
+        "value": 2007,
+        "formattedValue": "2006-07",
+        "paramValue": 2007
+    },
+    {
+        "value": 2006,
+        "formattedValue": "2005-06",
+        "paramValue": 2006
+    },
+    {
+        "value": 2005,
+        "formattedValue": "2004-05",
+        "paramValue": 2005
+    },
+    {
+        "value": 2004,
+        "formattedValue": "2003-04",
+        "paramValue": 2004
+    },
+    {
+        "value": 2003,
+        "formattedValue": "2002-03",
+        "paramValue": 2003
+    }
+]

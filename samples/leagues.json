@@ -1,0 +1,1254 @@
+{
+    "mlb": [
+        {
+            "name": "AL East",
+            "teams": [
+                {
+                    "id": "1",
+                    "href": "https://www.espn.com/mlb/team/_/name/bal/baltimore-orioles",
+                    "name": "Baltimore Orioles",
+                    "shortName": "Orioles",
+                    "abbrev": "bal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "2",
+                    "href": "https://www.espn.com/mlb/team/_/name/bos/boston-red-sox",
+                    "name": "Boston Red Sox",
+                    "shortName": "Red Sox",
+                    "abbrev": "bos",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/bos.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "10",
+                    "href": "https://www.espn.com/mlb/team/_/name/nyy/new-york-yankees",
+                    "name": "New York Yankees",
+                    "shortName": "Yankees",
+                    "abbrev": "nyy",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nyy.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "30",
+                    "href": "https://www.espn.com/mlb/team/_/name/tb/tampa-bay-rays",
+                    "name": "Tampa Bay Rays",
+                    "shortName": "Rays",
+                    "abbrev": "tb",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "14",
+                    "href": "https://www.espn.com/mlb/team/_/name/tor/toronto-blue-jays",
+                    "name": "Toronto Blue Jays",
+                    "shortName": "Blue Jays",
+                    "abbrev": "tor",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tor.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "AL Central",
+            "teams": [
+                {
+                    "id": "4",
+                    "href": "https://www.espn.com/mlb/team/_/name/chw/chicago-white-sox",
+                    "name": "Chicago White Sox",
+                    "shortName": "White Sox",
+                    "abbrev": "chw",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chw.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "5",
+                    "href": "https://www.espn.com/mlb/team/_/name/cle/cleveland-guardians",
+                    "name": "Cleveland Guardians",
+                    "shortName": "Guardians",
+                    "abbrev": "cle",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cle.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "6",
+                    "href": "https://www.espn.com/mlb/team/_/name/det/detroit-tigers",
+                    "name": "Detroit Tigers",
+                    "shortName": "Tigers",
+                    "abbrev": "det",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/det.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "7",
+                    "href": "https://www.espn.com/mlb/team/_/name/kc/kansas-city-royals",
+                    "name": "Kansas City Royals",
+                    "shortName": "Royals",
+                    "abbrev": "kc",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/kc.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "9",
+                    "href": "https://www.espn.com/mlb/team/_/name/min/minnesota-twins",
+                    "name": "Minnesota Twins",
+                    "shortName": "Twins",
+                    "abbrev": "min",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/min.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "AL West",
+            "teams": [
+                {
+                    "id": "18",
+                    "href": "https://www.espn.com/mlb/team/_/name/hou/houston-astros",
+                    "name": "Houston Astros",
+                    "shortName": "Astros",
+                    "abbrev": "hou",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/hou.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "3",
+                    "href": "https://www.espn.com/mlb/team/_/name/laa/los-angeles-angels",
+                    "name": "Los Angeles Angels",
+                    "shortName": "Angels",
+                    "abbrev": "laa",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/laa.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "11",
+                    "href": "https://www.espn.com/mlb/team/_/name/oak/oakland-athletics",
+                    "name": "Oakland Athletics",
+                    "shortName": "Athletics",
+                    "abbrev": "oak",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/oak.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "12",
+                    "href": "https://www.espn.com/mlb/team/_/name/sea/seattle-mariners",
+                    "name": "Seattle Mariners",
+                    "shortName": "Mariners",
+                    "abbrev": "sea",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sea.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "13",
+                    "href": "https://www.espn.com/mlb/team/_/name/tex/texas-rangers",
+                    "name": "Texas Rangers",
+                    "shortName": "Rangers",
+                    "abbrev": "tex",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/tex.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NL East",
+            "teams": [
+                {
+                    "id": "15",
+                    "href": "https://www.espn.com/mlb/team/_/name/atl/atlanta-braves",
+                    "name": "Atlanta Braves",
+                    "shortName": "Braves",
+                    "abbrev": "atl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "28",
+                    "href": "https://www.espn.com/mlb/team/_/name/mia/miami-marlins",
+                    "name": "Miami Marlins",
+                    "shortName": "Marlins",
+                    "abbrev": "mia",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mia.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "21",
+                    "href": "https://www.espn.com/mlb/team/_/name/nym/new-york-mets",
+                    "name": "New York Mets",
+                    "shortName": "Mets",
+                    "abbrev": "nym",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/nym.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "22",
+                    "href": "https://www.espn.com/mlb/team/_/name/phi/philadelphia-phillies",
+                    "name": "Philadelphia Phillies",
+                    "shortName": "Phillies",
+                    "abbrev": "phi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/phi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "20",
+                    "href": "https://www.espn.com/mlb/team/_/name/wsh/washington-nationals",
+                    "name": "Washington Nationals",
+                    "shortName": "Nationals",
+                    "abbrev": "wsh",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NL Central",
+            "teams": [
+                {
+                    "id": "16",
+                    "href": "https://www.espn.com/mlb/team/_/name/chc/chicago-cubs",
+                    "name": "Chicago Cubs",
+                    "shortName": "Cubs",
+                    "abbrev": "chc",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/chc.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "17",
+                    "href": "https://www.espn.com/mlb/team/_/name/cin/cincinnati-reds",
+                    "name": "Cincinnati Reds",
+                    "shortName": "Reds",
+                    "abbrev": "cin",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/cin.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "8",
+                    "href": "https://www.espn.com/mlb/team/_/name/mil/milwaukee-brewers",
+                    "name": "Milwaukee Brewers",
+                    "shortName": "Brewers",
+                    "abbrev": "mil",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/mil.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "23",
+                    "href": "https://www.espn.com/mlb/team/_/name/pit/pittsburgh-pirates",
+                    "name": "Pittsburgh Pirates",
+                    "shortName": "Pirates",
+                    "abbrev": "pit",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/pit.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "24",
+                    "href": "https://www.espn.com/mlb/team/_/name/stl/st-louis-cardinals",
+                    "name": "St. Louis Cardinals",
+                    "shortName": "Cardinals",
+                    "abbrev": "stl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/stl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NL West",
+            "teams": [
+                {
+                    "id": "29",
+                    "href": "https://www.espn.com/mlb/team/_/name/ari/arizona-diamondbacks",
+                    "name": "Arizona Diamondbacks",
+                    "shortName": "Diamondbacks",
+                    "abbrev": "ari",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/ari.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "27",
+                    "href": "https://www.espn.com/mlb/team/_/name/col/colorado-rockies",
+                    "name": "Colorado Rockies",
+                    "shortName": "Rockies",
+                    "abbrev": "col",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/col.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "19",
+                    "href": "https://www.espn.com/mlb/team/_/name/lad/los-angeles-dodgers",
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "Dodgers",
+                    "abbrev": "lad",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/lad.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "25",
+                    "href": "https://www.espn.com/mlb/team/_/name/sd/san-diego-padres",
+                    "name": "San Diego Padres",
+                    "shortName": "Padres",
+                    "abbrev": "sd",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sd.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "26",
+                    "href": "https://www.espn.com/mlb/team/_/name/sf/san-francisco-giants",
+                    "name": "San Francisco Giants",
+                    "shortName": "Giants",
+                    "abbrev": "sf",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/sf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        }
+    ],
+    "nba": [
+        {
+            "name": "Atlantic",
+            "teams": [
+                {
+                    "id": "2",
+                    "href": "https://www.espn.com/nba/team/_/name/bos/boston-celtics",
+                    "name": "Boston Celtics",
+                    "shortName": "Celtics",
+                    "abbrev": "bos",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bos.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "17",
+                    "href": "https://www.espn.com/nba/team/_/name/bkn/brooklyn-nets",
+                    "name": "Brooklyn Nets",
+                    "shortName": "Nets",
+                    "abbrev": "bkn",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/bkn.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "18",
+                    "href": "https://www.espn.com/nba/team/_/name/ny/new-york-knicks",
+                    "name": "New York Knicks",
+                    "shortName": "Knicks",
+                    "abbrev": "ny",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ny.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "20",
+                    "href": "https://www.espn.com/nba/team/_/name/phi/philadelphia-76ers",
+                    "name": "Philadelphia 76ers",
+                    "shortName": "76ers",
+                    "abbrev": "phi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "28",
+                    "href": "https://www.espn.com/nba/team/_/name/tor/toronto-raptors",
+                    "name": "Toronto Raptors",
+                    "shortName": "Raptors",
+                    "abbrev": "tor",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/tor.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "Central",
+            "teams": [
+                {
+                    "id": "4",
+                    "href": "https://www.espn.com/nba/team/_/name/chi/chicago-bulls",
+                    "name": "Chicago Bulls",
+                    "shortName": "Bulls",
+                    "abbrev": "chi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/chi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "5",
+                    "href": "https://www.espn.com/nba/team/_/name/cle/cleveland-cavaliers",
+                    "name": "Cleveland Cavaliers",
+                    "shortName": "Cavaliers",
+                    "abbrev": "cle",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cle.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "8",
+                    "href": "https://www.espn.com/nba/team/_/name/det/detroit-pistons",
+                    "name": "Detroit Pistons",
+                    "shortName": "Pistons",
+                    "abbrev": "det",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/det.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "11",
+                    "href": "https://www.espn.com/nba/team/_/name/ind/indiana-pacers",
+                    "name": "Indiana Pacers",
+                    "shortName": "Pacers",
+                    "abbrev": "ind",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ind.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "15",
+                    "href": "https://www.espn.com/nba/team/_/name/mil/milwaukee-bucks",
+                    "name": "Milwaukee Bucks",
+                    "shortName": "Bucks",
+                    "abbrev": "mil",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mil.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "Southeast",
+            "teams": [
+                {
+                    "id": "1",
+                    "href": "https://www.espn.com/nba/team/_/name/atl/atlanta-hawks",
+                    "name": "Atlanta Hawks",
+                    "shortName": "Hawks",
+                    "abbrev": "atl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/atl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "30",
+                    "href": "https://www.espn.com/nba/team/_/name/cha/charlotte-hornets",
+                    "name": "Charlotte Hornets",
+                    "shortName": "Hornets",
+                    "abbrev": "cha",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "14",
+                    "href": "https://www.espn.com/nba/team/_/name/mia/miami-heat",
+                    "name": "Miami Heat",
+                    "shortName": "Heat",
+                    "abbrev": "mia",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mia.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "19",
+                    "href": "https://www.espn.com/nba/team/_/name/orl/orlando-magic",
+                    "name": "Orlando Magic",
+                    "shortName": "Magic",
+                    "abbrev": "orl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/orl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "27",
+                    "href": "https://www.espn.com/nba/team/_/name/wsh/washington-wizards",
+                    "name": "Washington Wizards",
+                    "shortName": "Wizards",
+                    "abbrev": "wsh",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/wsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "Northwest",
+            "teams": [
+                {
+                    "id": "7",
+                    "href": "https://www.espn.com/nba/team/_/name/den/denver-nuggets",
+                    "name": "Denver Nuggets",
+                    "shortName": "Nuggets",
+                    "abbrev": "den",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/den.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "16",
+                    "href": "https://www.espn.com/nba/team/_/name/min/minnesota-timberwolves",
+                    "name": "Minnesota Timberwolves",
+                    "shortName": "Timberwolves",
+                    "abbrev": "min",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/min.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "25",
+                    "href": "https://www.espn.com/nba/team/_/name/okc/oklahoma-city-thunder",
+                    "name": "Oklahoma City Thunder",
+                    "shortName": "Thunder",
+                    "abbrev": "okc",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/okc.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "22",
+                    "href": "https://www.espn.com/nba/team/_/name/por/portland-trail-blazers",
+                    "name": "Portland Trail Blazers",
+                    "shortName": "Trail Blazers",
+                    "abbrev": "por",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/por.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "26",
+                    "href": "https://www.espn.com/nba/team/_/name/utah/utah-jazz",
+                    "name": "Utah Jazz",
+                    "shortName": "Jazz",
+                    "abbrev": "utah",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/utah.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "Pacific",
+            "teams": [
+                {
+                    "id": "9",
+                    "href": "https://www.espn.com/nba/team/_/name/gs/golden-state-warriors",
+                    "name": "Golden State Warriors",
+                    "shortName": "Warriors",
+                    "abbrev": "gs",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/gs.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "12",
+                    "href": "https://www.espn.com/nba/team/_/name/lac/la-clippers",
+                    "name": "LA Clippers",
+                    "shortName": "Clippers",
+                    "abbrev": "lac",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lac.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "13",
+                    "href": "https://www.espn.com/nba/team/_/name/lal/los-angeles-lakers",
+                    "name": "Los Angeles Lakers",
+                    "shortName": "Lakers",
+                    "abbrev": "lal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/lal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "21",
+                    "href": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns",
+                    "name": "Phoenix Suns",
+                    "shortName": "Suns",
+                    "abbrev": "phx",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/phx.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "23",
+                    "href": "https://www.espn.com/nba/team/_/name/sac/sacramento-kings",
+                    "name": "Sacramento Kings",
+                    "shortName": "Kings",
+                    "abbrev": "sac",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sac.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "Southwest",
+            "teams": [
+                {
+                    "id": "6",
+                    "href": "https://www.espn.com/nba/team/_/name/dal/dallas-mavericks",
+                    "name": "Dallas Mavericks",
+                    "shortName": "Mavericks",
+                    "abbrev": "dal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/dal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "10",
+                    "href": "https://www.espn.com/nba/team/_/name/hou/houston-rockets",
+                    "name": "Houston Rockets",
+                    "shortName": "Rockets",
+                    "abbrev": "hou",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/hou.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "29",
+                    "href": "https://www.espn.com/nba/team/_/name/mem/memphis-grizzlies",
+                    "name": "Memphis Grizzlies",
+                    "shortName": "Grizzlies",
+                    "abbrev": "mem",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/mem.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "3",
+                    "href": "https://www.espn.com/nba/team/_/name/no/new-orleans-pelicans",
+                    "name": "New Orleans Pelicans",
+                    "shortName": "Pelicans",
+                    "abbrev": "no",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/no.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "24",
+                    "href": "https://www.espn.com/nba/team/_/name/sa/san-antonio-spurs",
+                    "name": "San Antonio Spurs",
+                    "shortName": "Spurs",
+                    "abbrev": "sa",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/sa.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        }
+    ],
+    "nfl": [
+        {
+            "name": "AFC East",
+            "teams": [
+                {
+                    "id": "2",
+                    "href": "https://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
+                    "name": "Buffalo Bills",
+                    "shortName": "Bills",
+                    "abbrev": "buf",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "15",
+                    "href": "https://www.espn.com/nfl/team/_/name/mia/miami-dolphins",
+                    "name": "Miami Dolphins",
+                    "shortName": "Dolphins",
+                    "abbrev": "mia",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/mia.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "17",
+                    "href": "https://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
+                    "name": "New England Patriots",
+                    "shortName": "Patriots",
+                    "abbrev": "ne",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "20",
+                    "href": "https://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
+                    "name": "New York Jets",
+                    "shortName": "Jets",
+                    "abbrev": "nyj",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "AFC North",
+            "teams": [
+                {
+                    "id": "33",
+                    "href": "https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens",
+                    "name": "Baltimore Ravens",
+                    "shortName": "Ravens",
+                    "abbrev": "bal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "4",
+                    "href": "https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals",
+                    "name": "Cincinnati Bengals",
+                    "shortName": "Bengals",
+                    "abbrev": "cin",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "5",
+                    "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+                    "name": "Cleveland Browns",
+                    "shortName": "Browns",
+                    "abbrev": "cle",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "23",
+                    "href": "https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers",
+                    "name": "Pittsburgh Steelers",
+                    "shortName": "Steelers",
+                    "abbrev": "pit",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "AFC South",
+            "teams": [
+                {
+                    "id": "34",
+                    "href": "https://www.espn.com/nfl/team/_/name/hou/houston-texans",
+                    "name": "Houston Texans",
+                    "shortName": "Texans",
+                    "abbrev": "hou",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "11",
+                    "href": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
+                    "name": "Indianapolis Colts",
+                    "shortName": "Colts",
+                    "abbrev": "ind",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "30",
+                    "href": "https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars",
+                    "name": "Jacksonville Jaguars",
+                    "shortName": "Jaguars",
+                    "abbrev": "jax",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/jax.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "10",
+                    "href": "https://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
+                    "name": "Tennessee Titans",
+                    "shortName": "Titans",
+                    "abbrev": "ten",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "AFC West",
+            "teams": [
+                {
+                    "id": "7",
+                    "href": "https://www.espn.com/nfl/team/_/name/den/denver-broncos",
+                    "name": "Denver Broncos",
+                    "shortName": "Broncos",
+                    "abbrev": "den",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "12",
+                    "href": "https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
+                    "name": "Kansas City Chiefs",
+                    "shortName": "Chiefs",
+                    "abbrev": "kc",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/kc.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "13",
+                    "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders",
+                    "name": "Las Vegas Raiders",
+                    "shortName": "Raiders",
+                    "abbrev": "lv",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lv.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "24",
+                    "href": "https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers",
+                    "name": "Los Angeles Chargers",
+                    "shortName": "Chargers",
+                    "abbrev": "lac",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NFC East",
+            "teams": [
+                {
+                    "id": "6",
+                    "href": "https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
+                    "name": "Dallas Cowboys",
+                    "shortName": "Cowboys",
+                    "abbrev": "dal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "19",
+                    "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
+                    "name": "New York Giants",
+                    "shortName": "Giants",
+                    "abbrev": "nyg",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "21",
+                    "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                    "name": "Philadelphia Eagles",
+                    "shortName": "Eagles",
+                    "abbrev": "phi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "28",
+                    "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+                    "name": "Washington Commanders",
+                    "shortName": "Commanders",
+                    "abbrev": "wsh",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NFC North",
+            "teams": [
+                {
+                    "id": "3",
+                    "href": "https://www.espn.com/nfl/team/_/name/chi/chicago-bears",
+                    "name": "Chicago Bears",
+                    "shortName": "Bears",
+                    "abbrev": "chi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "8",
+                    "href": "https://www.espn.com/nfl/team/_/name/det/detroit-lions",
+                    "name": "Detroit Lions",
+                    "shortName": "Lions",
+                    "abbrev": "det",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "9",
+                    "href": "https://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
+                    "name": "Green Bay Packers",
+                    "shortName": "Packers",
+                    "abbrev": "gb",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/gb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "16",
+                    "href": "https://www.espn.com/nfl/team/_/name/min/minnesota-vikings",
+                    "name": "Minnesota Vikings",
+                    "shortName": "Vikings",
+                    "abbrev": "min",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NFC South",
+            "teams": [
+                {
+                    "id": "1",
+                    "href": "https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons",
+                    "name": "Atlanta Falcons",
+                    "shortName": "Falcons",
+                    "abbrev": "atl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "29",
+                    "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+                    "name": "Carolina Panthers",
+                    "shortName": "Panthers",
+                    "abbrev": "car",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "18",
+                    "href": "https://www.espn.com/nfl/team/_/name/no/new-orleans-saints",
+                    "name": "New Orleans Saints",
+                    "shortName": "Saints",
+                    "abbrev": "no",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "27",
+                    "href": "https://www.espn.com/nfl/team/_/name/tb/tampa-bay-buccaneers",
+                    "name": "Tampa Bay Buccaneers",
+                    "shortName": "Buccaneers",
+                    "abbrev": "tb",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/tb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "NFC West",
+            "teams": [
+                {
+                    "id": "22",
+                    "href": "https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals",
+                    "name": "Arizona Cardinals",
+                    "shortName": "Cardinals",
+                    "abbrev": "ari",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "14",
+                    "href": "https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams",
+                    "name": "Los Angeles Rams",
+                    "shortName": "Rams",
+                    "abbrev": "lar",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lar.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "25",
+                    "href": "https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers",
+                    "name": "San Francisco 49ers",
+                    "shortName": "49ers",
+                    "abbrev": "sf",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "26",
+                    "href": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
+                    "name": "Seattle Seahawks",
+                    "shortName": "Seahawks",
+                    "abbrev": "sea",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        }
+    ],
+    "nhl": [
+        {
+            "name": "ATL",
+            "teams": [
+                {
+                    "id": "1",
+                    "href": "http://www.espn.com/nhl/team/_/name/bos/boston-bruins",
+                    "name": "Boston Bruins",
+                    "shortName": "Bruins",
+                    "abbrev": "bos",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/bos.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "2",
+                    "href": "http://www.espn.com/nhl/team/_/name/buf/buffalo-sabres",
+                    "name": "Buffalo Sabres",
+                    "shortName": "Sabres",
+                    "abbrev": "buf",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/buf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "5",
+                    "href": "http://www.espn.com/nhl/team/_/name/det/detroit-red-wings",
+                    "name": "Detroit Red Wings",
+                    "shortName": "Red Wings",
+                    "abbrev": "det",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/det.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "26",
+                    "href": "http://www.espn.com/nhl/team/_/name/fla/florida-panthers",
+                    "name": "Florida Panthers",
+                    "shortName": "Panthers",
+                    "abbrev": "fla",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/fla.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "10",
+                    "href": "http://www.espn.com/nhl/team/_/name/mtl/montreal-canadiens",
+                    "name": "Montreal Canadiens",
+                    "shortName": "Canadiens",
+                    "abbrev": "mtl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/mtl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "14",
+                    "href": "http://www.espn.com/nhl/team/_/name/ott/ottawa-senators",
+                    "name": "Ottawa Senators",
+                    "shortName": "Senators",
+                    "abbrev": "ott",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ott.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "20",
+                    "href": "http://www.espn.com/nhl/team/_/name/tb/tampa-bay-lightning",
+                    "name": "Tampa Bay Lightning",
+                    "shortName": "Lightning",
+                    "abbrev": "tb",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/tb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "21",
+                    "href": "http://www.espn.com/nhl/team/_/name/tor/toronto-maple-leafs",
+                    "name": "Toronto Maple Leafs",
+                    "shortName": "Maple Leafs",
+                    "abbrev": "tor",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/tor.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "MET",
+            "teams": [
+                {
+                    "id": "7",
+                    "href": "http://www.espn.com/nhl/team/_/name/car/carolina-hurricanes",
+                    "name": "Carolina Hurricanes",
+                    "shortName": "Hurricanes",
+                    "abbrev": "car",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "29",
+                    "href": "http://www.espn.com/nhl/team/_/name/cbj/columbus-blue-jackets",
+                    "name": "Columbus Blue Jackets",
+                    "shortName": "Blue Jackets",
+                    "abbrev": "cbj",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/cbj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "11",
+                    "href": "http://www.espn.com/nhl/team/_/name/nj/new-jersey-devils",
+                    "name": "New Jersey Devils",
+                    "shortName": "Devils",
+                    "abbrev": "nj",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "12",
+                    "href": "http://www.espn.com/nhl/team/_/name/nyi/new-york-islanders",
+                    "name": "New York Islanders",
+                    "shortName": "Islanders",
+                    "abbrev": "nyi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nyi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "13",
+                    "href": "http://www.espn.com/nhl/team/_/name/nyr/new-york-rangers",
+                    "name": "New York Rangers",
+                    "shortName": "Rangers",
+                    "abbrev": "nyr",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nyr.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "15",
+                    "href": "http://www.espn.com/nhl/team/_/name/phi/philadelphia-flyers",
+                    "name": "Philadelphia Flyers",
+                    "shortName": "Flyers",
+                    "abbrev": "phi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "16",
+                    "href": "http://www.espn.com/nhl/team/_/name/pit/pittsburgh-penguins",
+                    "name": "Pittsburgh Penguins",
+                    "shortName": "Penguins",
+                    "abbrev": "pit",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "23",
+                    "href": "http://www.espn.com/nhl/team/_/name/wsh/washington-capitals",
+                    "name": "Washington Capitals",
+                    "shortName": "Capitals",
+                    "abbrev": "wsh",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/wsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "CEN",
+            "teams": [
+                {
+                    "id": "24",
+                    "href": "http://www.espn.com/nhl/team/_/name/ari/arizona-coyotes",
+                    "name": "Arizona Coyotes",
+                    "shortName": "Coyotes",
+                    "abbrev": "ari",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ari.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "4",
+                    "href": "http://www.espn.com/nhl/team/_/name/chi/chicago-blackhawks",
+                    "name": "Chicago Blackhawks",
+                    "shortName": "Blackhawks",
+                    "abbrev": "chi",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/chi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "17",
+                    "href": "http://www.espn.com/nhl/team/_/name/col/colorado-avalanche",
+                    "name": "Colorado Avalanche",
+                    "shortName": "Avalanche",
+                    "abbrev": "col",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/col.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "9",
+                    "href": "http://www.espn.com/nhl/team/_/name/dal/dallas-stars",
+                    "name": "Dallas Stars",
+                    "shortName": "Stars",
+                    "abbrev": "dal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/dal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "30",
+                    "href": "http://www.espn.com/nhl/team/_/name/min/minnesota-wild",
+                    "name": "Minnesota Wild",
+                    "shortName": "Wild",
+                    "abbrev": "min",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/min.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "27",
+                    "href": "http://www.espn.com/nhl/team/_/name/nsh/nashville-predators",
+                    "name": "Nashville Predators",
+                    "shortName": "Predators",
+                    "abbrev": "nsh",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "19",
+                    "href": "http://www.espn.com/nhl/team/_/name/stl/st-louis-blues",
+                    "name": "St. Louis Blues",
+                    "shortName": "Blues",
+                    "abbrev": "stl",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/stl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "28",
+                    "href": "http://www.espn.com/nhl/team/_/name/wpg/winnipeg-jets",
+                    "name": "Winnipeg Jets",
+                    "shortName": "Jets",
+                    "abbrev": "wpg",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/wpg.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        },
+        {
+            "name": "PAC",
+            "teams": [
+                {
+                    "id": "25",
+                    "href": "http://www.espn.com/nhl/team/_/name/ana/anaheim-ducks",
+                    "name": "Anaheim Ducks",
+                    "shortName": "Ducks",
+                    "abbrev": "ana",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ana.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "3",
+                    "href": "http://www.espn.com/nhl/team/_/name/cgy/calgary-flames",
+                    "name": "Calgary Flames",
+                    "shortName": "Flames",
+                    "abbrev": "cgy",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/cgy.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "6",
+                    "href": "http://www.espn.com/nhl/team/_/name/edm/edmonton-oilers",
+                    "name": "Edmonton Oilers",
+                    "shortName": "Oilers",
+                    "abbrev": "edm",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/edm.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "8",
+                    "href": "http://www.espn.com/nhl/team/_/name/la/los-angeles-kings",
+                    "name": "Los Angeles Kings",
+                    "shortName": "Kings",
+                    "abbrev": "la",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/la.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "18",
+                    "href": "http://www.espn.com/nhl/team/_/name/sj/san-jose-sharks",
+                    "name": "San Jose Sharks",
+                    "shortName": "Sharks",
+                    "abbrev": "sj",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/sj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "124292",
+                    "href": "http://www.espn.com/nhl/team/_/name/sea/seattle-kraken",
+                    "name": "Seattle Kraken",
+                    "shortName": "Kraken",
+                    "abbrev": "sea",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/sea.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "22",
+                    "href": "http://www.espn.com/nhl/team/_/name/van/vancouver-canucks",
+                    "name": "Vancouver Canucks",
+                    "shortName": "Canucks",
+                    "abbrev": "van",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/van.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "id": "37",
+                    "href": "http://www.espn.com/nhl/team/_/name/vgk/vegas-golden-knights",
+                    "name": "Vegas Golden Knights",
+                    "shortName": "Golden Knights",
+                    "abbrev": "vgk",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/vgk.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        }
+    ],
+    "soccer": [
+        {
+            "name": "Top Leagues",
+            "teams": [
+                {
+                    "name": "Premier League",
+                    "href": "https://www.espn.com/soccer/league/_/name/eng.1",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png&w=80&h=80&transparent=true&cquality=40&scale=crop&location=origin"
+                },
+                {
+                    "name": "Champions League",
+                    "href": "https://www.espn.com/soccer/league/_/name/uefa.champions",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png&w=80&h=80&transparent=true&cquality=40&scale=crop&location=origin"
+                },
+                {
+                    "name": "LALIGA",
+                    "href": "https://www.espn.com/soccer/league/_/name/esp.1",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png&w=80&h=80&transparent=true&cquality=40&scale=crop&location=origin"
+                },
+                {
+                    "name": "Bundesliga",
+                    "href": "https://www.espn.com/soccer/league/_/name/ger.1",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png&transparent=true&w=80&h=80&cquality=40&scale=crop&location=origin"
+                },
+                {
+                    "name": "MLS",
+                    "href": "https://www.espn.com/soccer/league/_/name/usa.1/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png&w=80&h=80&transparent=true&cquality=40&scale=crop&location=origin"
+                },
+                {
+                    "name": "NWSL",
+                    "href": "https://www.espn.com/soccer/league/_/name/USA.NWSL",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Liga MX",
+                    "href": "https://www.espn.com/soccer/league/_/name/mex.1/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png&w=80&h=80&transparent=true&cquality=40&scale=crop&location=origin"
+                }
+            ]
+        },
+        {
+            "name": "Top Teams",
+            "teams": [
+                {
+                    "name": "USMNT",
+                    "href": "https://www.espn.com/soccer/team/_/id/660/united-states",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/660.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "USWNT",
+                    "href": "https://www.espn.com/soccer/team/_/id/2765/united-states",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2765.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Arsenal ",
+                    "href": "https://www.espn.com/soccer/team/_/id/359/arsenal",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Chelsea",
+                    "href": "https://www.espn.com/soccer/team/_/id/363/chelsea",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Liverpool",
+                    "href": "https://www.espn.com/soccer/team/_/id/364/liverpool",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Manchester City",
+                    "href": "https://www.espn.com/soccer/team/_/id/382/manchester-city",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Manchester United ",
+                    "href": "https://www.espn.com/soccer/team/_/id/360/Manchester-United/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Tottenham Hotspur",
+                    "href": "https://www.espn.com/soccer/team/_/id/367/tottenham-hotspur",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Barcelona",
+                    "href": "https://www.espn.com/soccer/team/_/id/83/barcelona",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/83.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Real Madrid",
+                    "href": "https://www.espn.com/soccer/team/_/id/86/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/86.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Atletico Madrid",
+                    "href": "https://www.espn.com/soccer/team/_/id/1068/Atletico-Madrid/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1068.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Bayern Munich",
+                    "href": "https://www.espn.com/soccer/team/_/id/132/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Borussia Dortmund",
+                    "href": "https://www.espn.com/soccer/team/_/id/124/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/124.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Juventus",
+                    "href": "https://www.espn.com/soccer/team/_/id/111/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/111.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "PSG",
+                    "href": "https://www.espn.com/soccer/team/_/id/160/",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/160.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Guadalajara",
+                    "href": "https://www.espn.com/soccer/team/_/id/219/guadalajara",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/219.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                },
+                {
+                    "name": "Am\u00e9rica",
+                    "href": "https://www.espn.com/soccer/team/_/id/227/america",
+                    "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/227.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+                }
+            ]
+        }
+    ]
+}

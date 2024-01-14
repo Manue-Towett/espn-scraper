@@ -1,0 +1,258 @@
+[
+    {
+        "id": "1",
+        "href": "http://www.espn.com/nhl/team/_/name/bos/boston-bruins",
+        "name": "Boston Bruins",
+        "shortName": "Bruins",
+        "abbrev": "bos",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/bos.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "2",
+        "href": "http://www.espn.com/nhl/team/_/name/buf/buffalo-sabres",
+        "name": "Buffalo Sabres",
+        "shortName": "Sabres",
+        "abbrev": "buf",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/buf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "5",
+        "href": "http://www.espn.com/nhl/team/_/name/det/detroit-red-wings",
+        "name": "Detroit Red Wings",
+        "shortName": "Red Wings",
+        "abbrev": "det",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/det.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "26",
+        "href": "http://www.espn.com/nhl/team/_/name/fla/florida-panthers",
+        "name": "Florida Panthers",
+        "shortName": "Panthers",
+        "abbrev": "fla",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/fla.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "10",
+        "href": "http://www.espn.com/nhl/team/_/name/mtl/montreal-canadiens",
+        "name": "Montreal Canadiens",
+        "shortName": "Canadiens",
+        "abbrev": "mtl",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/mtl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "14",
+        "href": "http://www.espn.com/nhl/team/_/name/ott/ottawa-senators",
+        "name": "Ottawa Senators",
+        "shortName": "Senators",
+        "abbrev": "ott",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ott.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "20",
+        "href": "http://www.espn.com/nhl/team/_/name/tb/tampa-bay-lightning",
+        "name": "Tampa Bay Lightning",
+        "shortName": "Lightning",
+        "abbrev": "tb",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/tb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "21",
+        "href": "http://www.espn.com/nhl/team/_/name/tor/toronto-maple-leafs",
+        "name": "Toronto Maple Leafs",
+        "shortName": "Maple Leafs",
+        "abbrev": "tor",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/tor.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "7",
+        "href": "http://www.espn.com/nhl/team/_/name/car/carolina-hurricanes",
+        "name": "Carolina Hurricanes",
+        "shortName": "Hurricanes",
+        "abbrev": "car",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "29",
+        "href": "http://www.espn.com/nhl/team/_/name/cbj/columbus-blue-jackets",
+        "name": "Columbus Blue Jackets",
+        "shortName": "Blue Jackets",
+        "abbrev": "cbj",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/cbj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "11",
+        "href": "http://www.espn.com/nhl/team/_/name/nj/new-jersey-devils",
+        "name": "New Jersey Devils",
+        "shortName": "Devils",
+        "abbrev": "nj",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "12",
+        "href": "http://www.espn.com/nhl/team/_/name/nyi/new-york-islanders",
+        "name": "New York Islanders",
+        "shortName": "Islanders",
+        "abbrev": "nyi",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nyi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "13",
+        "href": "http://www.espn.com/nhl/team/_/name/nyr/new-york-rangers",
+        "name": "New York Rangers",
+        "shortName": "Rangers",
+        "abbrev": "nyr",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nyr.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "15",
+        "href": "http://www.espn.com/nhl/team/_/name/phi/philadelphia-flyers",
+        "name": "Philadelphia Flyers",
+        "shortName": "Flyers",
+        "abbrev": "phi",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/phi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "16",
+        "href": "http://www.espn.com/nhl/team/_/name/pit/pittsburgh-penguins",
+        "name": "Pittsburgh Penguins",
+        "shortName": "Penguins",
+        "abbrev": "pit",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/pit.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "23",
+        "href": "http://www.espn.com/nhl/team/_/name/wsh/washington-capitals",
+        "name": "Washington Capitals",
+        "shortName": "Capitals",
+        "abbrev": "wsh",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/wsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "24",
+        "href": "http://www.espn.com/nhl/team/_/name/ari/arizona-coyotes",
+        "name": "Arizona Coyotes",
+        "shortName": "Coyotes",
+        "abbrev": "ari",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ari.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "4",
+        "href": "http://www.espn.com/nhl/team/_/name/chi/chicago-blackhawks",
+        "name": "Chicago Blackhawks",
+        "shortName": "Blackhawks",
+        "abbrev": "chi",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/chi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "17",
+        "href": "http://www.espn.com/nhl/team/_/name/col/colorado-avalanche",
+        "name": "Colorado Avalanche",
+        "shortName": "Avalanche",
+        "abbrev": "col",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/col.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "9",
+        "href": "http://www.espn.com/nhl/team/_/name/dal/dallas-stars",
+        "name": "Dallas Stars",
+        "shortName": "Stars",
+        "abbrev": "dal",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/dal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "30",
+        "href": "http://www.espn.com/nhl/team/_/name/min/minnesota-wild",
+        "name": "Minnesota Wild",
+        "shortName": "Wild",
+        "abbrev": "min",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/min.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "27",
+        "href": "http://www.espn.com/nhl/team/_/name/nsh/nashville-predators",
+        "name": "Nashville Predators",
+        "shortName": "Predators",
+        "abbrev": "nsh",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/nsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "19",
+        "href": "http://www.espn.com/nhl/team/_/name/stl/st-louis-blues",
+        "name": "St. Louis Blues",
+        "shortName": "Blues",
+        "abbrev": "stl",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/stl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "28",
+        "href": "http://www.espn.com/nhl/team/_/name/wpg/winnipeg-jets",
+        "name": "Winnipeg Jets",
+        "shortName": "Jets",
+        "abbrev": "wpg",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/wpg.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "25",
+        "href": "http://www.espn.com/nhl/team/_/name/ana/anaheim-ducks",
+        "name": "Anaheim Ducks",
+        "shortName": "Ducks",
+        "abbrev": "ana",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/ana.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "3",
+        "href": "http://www.espn.com/nhl/team/_/name/cgy/calgary-flames",
+        "name": "Calgary Flames",
+        "shortName": "Flames",
+        "abbrev": "cgy",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/cgy.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "6",
+        "href": "http://www.espn.com/nhl/team/_/name/edm/edmonton-oilers",
+        "name": "Edmonton Oilers",
+        "shortName": "Oilers",
+        "abbrev": "edm",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/edm.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "8",
+        "href": "http://www.espn.com/nhl/team/_/name/la/los-angeles-kings",
+        "name": "Los Angeles Kings",
+        "shortName": "Kings",
+        "abbrev": "la",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/la.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "18",
+        "href": "http://www.espn.com/nhl/team/_/name/sj/san-jose-sharks",
+        "name": "San Jose Sharks",
+        "shortName": "Sharks",
+        "abbrev": "sj",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/sj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "124292",
+        "href": "http://www.espn.com/nhl/team/_/name/sea/seattle-kraken",
+        "name": "Seattle Kraken",
+        "shortName": "Kraken",
+        "abbrev": "sea",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/sea.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "22",
+        "href": "http://www.espn.com/nhl/team/_/name/van/vancouver-canucks",
+        "name": "Vancouver Canucks",
+        "shortName": "Canucks",
+        "abbrev": "van",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/van.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "37",
+        "href": "http://www.espn.com/nhl/team/_/name/vgk/vegas-golden-knights",
+        "name": "Vegas Golden Knights",
+        "shortName": "Golden Knights",
+        "abbrev": "vgk",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/vgk.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    }
+]

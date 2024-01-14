@@ -1,0 +1,258 @@
+[
+    {
+        "id": "2",
+        "href": "https://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
+        "name": "Buffalo Bills",
+        "shortName": "Bills",
+        "abbrev": "buf",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "15",
+        "href": "https://www.espn.com/nfl/team/_/name/mia/miami-dolphins",
+        "name": "Miami Dolphins",
+        "shortName": "Dolphins",
+        "abbrev": "mia",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/mia.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "17",
+        "href": "https://www.espn.com/nfl/team/_/name/ne/new-england-patriots",
+        "name": "New England Patriots",
+        "shortName": "Patriots",
+        "abbrev": "ne",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "20",
+        "href": "https://www.espn.com/nfl/team/_/name/nyj/new-york-jets",
+        "name": "New York Jets",
+        "shortName": "Jets",
+        "abbrev": "nyj",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyj.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "33",
+        "href": "https://www.espn.com/nfl/team/_/name/bal/baltimore-ravens",
+        "name": "Baltimore Ravens",
+        "shortName": "Ravens",
+        "abbrev": "bal",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "4",
+        "href": "https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals",
+        "name": "Cincinnati Bengals",
+        "shortName": "Bengals",
+        "abbrev": "cin",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "5",
+        "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+        "name": "Cleveland Browns",
+        "shortName": "Browns",
+        "abbrev": "cle",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "23",
+        "href": "https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers",
+        "name": "Pittsburgh Steelers",
+        "shortName": "Steelers",
+        "abbrev": "pit",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "34",
+        "href": "https://www.espn.com/nfl/team/_/name/hou/houston-texans",
+        "name": "Houston Texans",
+        "shortName": "Texans",
+        "abbrev": "hou",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "11",
+        "href": "https://www.espn.com/nfl/team/_/name/ind/indianapolis-colts",
+        "name": "Indianapolis Colts",
+        "shortName": "Colts",
+        "abbrev": "ind",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "30",
+        "href": "https://www.espn.com/nfl/team/_/name/jax/jacksonville-jaguars",
+        "name": "Jacksonville Jaguars",
+        "shortName": "Jaguars",
+        "abbrev": "jax",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/jax.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "10",
+        "href": "https://www.espn.com/nfl/team/_/name/ten/tennessee-titans",
+        "name": "Tennessee Titans",
+        "shortName": "Titans",
+        "abbrev": "ten",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "7",
+        "href": "https://www.espn.com/nfl/team/_/name/den/denver-broncos",
+        "name": "Denver Broncos",
+        "shortName": "Broncos",
+        "abbrev": "den",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "12",
+        "href": "https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
+        "name": "Kansas City Chiefs",
+        "shortName": "Chiefs",
+        "abbrev": "kc",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/kc.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "13",
+        "href": "https://www.espn.com/nfl/team/_/name/lv/las-vegas-raiders",
+        "name": "Las Vegas Raiders",
+        "shortName": "Raiders",
+        "abbrev": "lv",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lv.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "24",
+        "href": "https://www.espn.com/nfl/team/_/name/lac/los-angeles-chargers",
+        "name": "Los Angeles Chargers",
+        "shortName": "Chargers",
+        "abbrev": "lac",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "6",
+        "href": "https://www.espn.com/nfl/team/_/name/dal/dallas-cowboys",
+        "name": "Dallas Cowboys",
+        "shortName": "Cowboys",
+        "abbrev": "dal",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "19",
+        "href": "https://www.espn.com/nfl/team/_/name/nyg/new-york-giants",
+        "name": "New York Giants",
+        "shortName": "Giants",
+        "abbrev": "nyg",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "21",
+        "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+        "name": "Philadelphia Eagles",
+        "shortName": "Eagles",
+        "abbrev": "phi",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "28",
+        "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+        "name": "Washington Commanders",
+        "shortName": "Commanders",
+        "abbrev": "wsh",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "3",
+        "href": "https://www.espn.com/nfl/team/_/name/chi/chicago-bears",
+        "name": "Chicago Bears",
+        "shortName": "Bears",
+        "abbrev": "chi",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "8",
+        "href": "https://www.espn.com/nfl/team/_/name/det/detroit-lions",
+        "name": "Detroit Lions",
+        "shortName": "Lions",
+        "abbrev": "det",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "9",
+        "href": "https://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
+        "name": "Green Bay Packers",
+        "shortName": "Packers",
+        "abbrev": "gb",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/gb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "16",
+        "href": "https://www.espn.com/nfl/team/_/name/min/minnesota-vikings",
+        "name": "Minnesota Vikings",
+        "shortName": "Vikings",
+        "abbrev": "min",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "1",
+        "href": "https://www.espn.com/nfl/team/_/name/atl/atlanta-falcons",
+        "name": "Atlanta Falcons",
+        "shortName": "Falcons",
+        "abbrev": "atl",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "29",
+        "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+        "name": "Carolina Panthers",
+        "shortName": "Panthers",
+        "abbrev": "car",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "18",
+        "href": "https://www.espn.com/nfl/team/_/name/no/new-orleans-saints",
+        "name": "New Orleans Saints",
+        "shortName": "Saints",
+        "abbrev": "no",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "27",
+        "href": "https://www.espn.com/nfl/team/_/name/tb/tampa-bay-buccaneers",
+        "name": "Tampa Bay Buccaneers",
+        "shortName": "Buccaneers",
+        "abbrev": "tb",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/tb.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "22",
+        "href": "https://www.espn.com/nfl/team/_/name/ari/arizona-cardinals",
+        "name": "Arizona Cardinals",
+        "shortName": "Cardinals",
+        "abbrev": "ari",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "14",
+        "href": "https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams",
+        "name": "Los Angeles Rams",
+        "shortName": "Rams",
+        "abbrev": "lar",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lar.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "25",
+        "href": "https://www.espn.com/nfl/team/_/name/sf/san-francisco-49ers",
+        "name": "San Francisco 49ers",
+        "shortName": "49ers",
+        "abbrev": "sf",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    },
+    {
+        "id": "26",
+        "href": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
+        "name": "Seattle Seahawks",
+        "shortName": "Seahawks",
+        "abbrev": "sea",
+        "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png&w=80&h=80&cquality=40&scale=crop&location=origin&transparent=true"
+    }
+]

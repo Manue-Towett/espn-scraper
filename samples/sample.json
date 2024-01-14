@@ -1,0 +1,2121 @@
+[
+    {
+        "season": 2003,
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "title": "Regular Season",
+        "notes": "",
+        "events": {
+            "pre": [],
+            "post": [
+                {
+                    "date": {
+                        "date": "2003-09-07T17:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "17",
+                        "abbrev": "NE",
+                        "displayName": "New England Patriots",
+                        "shortDisplayName": "New England Patriots",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Patriots",
+                        "location": "New England",
+                        "links": "/nfl/team/_/name/ne/new-england-patriots",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-09-07T17:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230907002/patriots-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "31",
+                        "opponentTeamScore": "0",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230907002/patriots-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-09-07T17:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230907002/patriots-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "1-0",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 1,
+                        "text": "Week 1",
+                        "display": 1
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 230
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 89
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 81
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-09-14T17:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "30",
+                        "abbrev": "JAX",
+                        "displayName": "Jacksonville Jaguars",
+                        "shortDisplayName": "Jacksonville Jaguars",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Jaguars",
+                        "location": "Jacksonville",
+                        "links": "/nfl/team/_/name/jax/jacksonville-jaguars",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-09-14T17:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230914030/bills-jaguars",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "38",
+                        "opponentTeamScore": "17",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230914030/bills-jaguars",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-09-14T17:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230914030/bills-jaguars",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "2-0",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 2,
+                        "text": "Week 2",
+                        "display": 2
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 314
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 26
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 133
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-09-22T00:30Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "15",
+                        "abbrev": "MIA",
+                        "displayName": "Miami Dolphins",
+                        "shortDisplayName": "Miami Dolphins",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Dolphins",
+                        "location": "Miami",
+                        "links": "/nfl/team/_/name/mia/miami-dolphins",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-09-22T00:30Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230921015/bills-dolphins",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [
+                        {
+                            "link": "/watch/",
+                            "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                            "name": "ESPN"
+                        }
+                    ],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "7",
+                        "opponentTeamScore": "17",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230921015/bills-dolphins",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-09-22T00:30Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230921015/bills-dolphins",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": [
+                            {
+                                "link": "/watch/",
+                                "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                                "name": "ESPN"
+                            }
+                        ]
+                    },
+                    "record": "2-1",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 3,
+                        "text": "Week 3",
+                        "display": 3
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 98
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "J. Burns",
+                            "name": "Joe Burns",
+                            "href": "http://www.espn.com/nfl/player/_/id/4314/joe-burns",
+                            "uid": "",
+                            "lastName": "Burns"
+                        },
+                        "value": 22
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "B. Shaw",
+                            "name": "Bobby Shaw",
+                            "href": "http://www.espn.com/nfl/player/_/id/1558/bobby-shaw",
+                            "uid": "",
+                            "lastName": "Shaw"
+                        },
+                        "value": 34
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-09-28T17:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "21",
+                        "abbrev": "PHI",
+                        "displayName": "Philadelphia Eagles",
+                        "shortDisplayName": "Philadelphia Eagles",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Eagles",
+                        "location": "Philadelphia",
+                        "links": "/nfl/team/_/name/phi/philadelphia-eagles",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-09-28T17:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230928002/eagles-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "13",
+                        "opponentTeamScore": "23",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230928002/eagles-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-09-28T17:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230928002/eagles-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "2-2",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 4,
+                        "text": "Week 4",
+                        "display": 4
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 296
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "J. Burns",
+                            "name": "Joe Burns",
+                            "href": "http://www.espn.com/nfl/player/_/id/4314/joe-burns",
+                            "uid": "",
+                            "lastName": "Burns"
+                        },
+                        "value": 17
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 114
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-10-05T17:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "4",
+                        "abbrev": "CIN",
+                        "displayName": "Cincinnati Bengals",
+                        "shortDisplayName": "Cincinnati Bengals",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Bengals",
+                        "location": "Cincinnati",
+                        "links": "/nfl/team/_/name/cin/cincinnati-bengals",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-10-05T17:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231005002/bengals-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "22",
+                        "opponentTeamScore": "16",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231005002/bengals-bills",
+                        "statusId": "3",
+                        "overtime": "OT"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-10-05T17:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231005002/bengals-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "3-2",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final/OT",
+                        "shortDetail": "Final/OT",
+                        "altDetail": "OT"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 5,
+                        "text": "Week 5",
+                        "display": 5
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 211
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 85
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 99
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-10-12T20:15Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "20",
+                        "abbrev": "NYJ",
+                        "displayName": "New York Jets",
+                        "shortDisplayName": "New York Jets",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Jets",
+                        "location": "New York",
+                        "links": "/nfl/team/_/name/nyj/new-york-jets",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-10-12T20:15Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231012020/bills-jets",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "3",
+                        "opponentTeamScore": "30",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231012020/bills-jets",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-10-12T20:15Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231012020/bills-jets",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "3-3",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 6,
+                        "text": "Week 6",
+                        "display": 6
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 202
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 53
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "B. Shaw",
+                            "name": "Bobby Shaw",
+                            "href": "http://www.espn.com/nfl/player/_/id/1558/bobby-shaw",
+                            "uid": "",
+                            "lastName": "Shaw"
+                        },
+                        "value": 58
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-10-19T20:15Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "28",
+                        "abbrev": "WSH",
+                        "displayName": "Washington Redskins",
+                        "shortDisplayName": "Washington Redskins",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Redskins",
+                        "location": "Washington",
+                        "links": "/nfl/team/_/name/wsh/washington-commanders",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-10-19T20:15Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231019002/commanders-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "24",
+                        "opponentTeamScore": "7",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231019002/commanders-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-10-19T20:15Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231019002/commanders-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "4-3",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 7,
+                        "text": "Week 7",
+                        "display": 7
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 244
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 167
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "J. Reed",
+                            "name": "Josh Reed",
+                            "href": "http://www.espn.com/nfl/player/_/id/3564/josh-reed",
+                            "uid": "",
+                            "lastName": "Reed"
+                        },
+                        "value": 109
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-10-27T01:30Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "12",
+                        "abbrev": "KC",
+                        "displayName": "Kansas City Chiefs",
+                        "shortDisplayName": "Kansas City Chiefs",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Chiefs",
+                        "location": "Kansas City",
+                        "links": "/nfl/team/_/name/kc/kansas-city-chiefs",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-10-27T01:30Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231026012/bills-chiefs",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "5",
+                        "opponentTeamScore": "38",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231026012/bills-chiefs",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-10-27T01:30Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231026012/bills-chiefs",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "4-4",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 8,
+                        "text": "Week 8",
+                        "display": 8
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 153
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 124
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "J. Reed",
+                            "name": "Josh Reed",
+                            "href": "http://www.espn.com/nfl/player/_/id/3564/josh-reed",
+                            "uid": "",
+                            "lastName": "Reed"
+                        },
+                        "value": 59
+                    }
+                },
+                {
+                    "week": {
+                        "display": 9
+                    },
+                    "customText": "BYE WEEK",
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-11-09T21:15Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "6",
+                        "abbrev": "DAL",
+                        "displayName": "Dallas Cowboys",
+                        "shortDisplayName": "Dallas Cowboys",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Cowboys",
+                        "location": "Dallas",
+                        "links": "/nfl/team/_/name/dal/dallas-cowboys",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-11-09T21:15Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231109006/bills-cowboys",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "6",
+                        "opponentTeamScore": "10",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231109006/bills-cowboys",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-11-09T21:15Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231109006/bills-cowboys",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "4-5",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 10,
+                        "text": "Week 10",
+                        "display": 10
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 104
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 80
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 32
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-11-16T18:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "34",
+                        "abbrev": "HOU",
+                        "displayName": "Houston Texans",
+                        "shortDisplayName": "Houston Texans",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Texans",
+                        "location": "Houston",
+                        "links": "/nfl/team/_/name/hou/houston-texans",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-11-16T18:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231116002/texans-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "10",
+                        "opponentTeamScore": "12",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231116002/texans-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-11-16T18:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231116002/texans-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "4-6",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 11,
+                        "text": "Week 11",
+                        "display": 11
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 184
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 149
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "B. Shaw",
+                            "name": "Bobby Shaw",
+                            "href": "http://www.espn.com/nfl/player/_/id/1558/bobby-shaw",
+                            "uid": "",
+                            "lastName": "Shaw"
+                        },
+                        "value": 92
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-11-23T18:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "11",
+                        "abbrev": "IND",
+                        "displayName": "Indianapolis Colts",
+                        "shortDisplayName": "Indianapolis Colts",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Colts",
+                        "location": "Indianapolis",
+                        "links": "/nfl/team/_/name/ind/indianapolis-colts",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-11-23T18:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231123002/colts-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "14",
+                        "opponentTeamScore": "17",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231123002/colts-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-11-23T18:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231123002/colts-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "4-7",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 12,
+                        "text": "Week 12",
+                        "display": 12
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 135
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 77
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 38
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-11-30T18:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "19",
+                        "abbrev": "NYG",
+                        "displayName": "New York Giants",
+                        "shortDisplayName": "New York Giants",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Giants",
+                        "location": "New York",
+                        "links": "/nfl/team/_/name/nyg/new-york-giants",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-11-30T18:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231130019/bills-giants",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "24",
+                        "opponentTeamScore": "7",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231130019/bills-giants",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-11-30T18:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231130019/bills-giants",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "5-7",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 13,
+                        "text": "Week 13",
+                        "display": 13
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 252
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 113
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "B. Shaw",
+                            "name": "Bobby Shaw",
+                            "href": "http://www.espn.com/nfl/player/_/id/1558/bobby-shaw",
+                            "uid": "",
+                            "lastName": "Shaw"
+                        },
+                        "value": 87
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-12-07T21:15Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "20",
+                        "abbrev": "NYJ",
+                        "displayName": "New York Jets",
+                        "shortDisplayName": "New York Jets",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Jets",
+                        "location": "New York",
+                        "links": "/nfl/team/_/name/nyj/new-york-jets",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-12-07T21:15Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231207002/jets-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "17",
+                        "opponentTeamScore": "6",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231207002/jets-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-12-07T21:15Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231207002/jets-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "6-7",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 14,
+                        "text": "Week 14",
+                        "display": 14
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 72
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 169
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "J. Reed",
+                            "name": "Josh Reed",
+                            "href": "http://www.espn.com/nfl/player/_/id/3564/josh-reed",
+                            "uid": "",
+                            "lastName": "Reed"
+                        },
+                        "value": 30
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-12-14T18:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "10",
+                        "abbrev": "TEN",
+                        "displayName": "Tennessee Titans",
+                        "shortDisplayName": "Tennessee Titans",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Titans",
+                        "location": "Tennessee",
+                        "links": "/nfl/team/_/name/ten/tennessee-titans",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-12-14T18:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231214010/bills-titans",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "26",
+                        "opponentTeamScore": "28",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231214010/bills-titans",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-12-14T18:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231214010/bills-titans",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "6-8",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 15,
+                        "text": "Week 15",
+                        "display": 15
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 168
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 88
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "B. Shaw",
+                            "name": "Bobby Shaw",
+                            "href": "http://www.espn.com/nfl/player/_/id/1558/bobby-shaw",
+                            "uid": "",
+                            "lastName": "Shaw"
+                        },
+                        "value": 57
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-12-21T18:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "15",
+                        "abbrev": "MIA",
+                        "displayName": "Miami Dolphins",
+                        "shortDisplayName": "Miami Dolphins",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Dolphins",
+                        "location": "Miami",
+                        "links": "/nfl/team/_/name/mia/miami-dolphins",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-12-21T18:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231221002/dolphins-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "3",
+                        "opponentTeamScore": "20",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231221002/dolphins-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-12-21T18:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231221002/dolphins-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "6-9",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 16,
+                        "text": "Week 16",
+                        "display": 16
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "D. Bledsoe",
+                            "name": "Drew Bledsoe",
+                            "href": "http://www.espn.com/nfl/player/_/id/393/drew-bledsoe",
+                            "uid": "",
+                            "lastName": "Bledsoe"
+                        },
+                        "value": 114
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 67
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "B. Shaw",
+                            "name": "Bobby Shaw",
+                            "href": "http://www.espn.com/nfl/player/_/id/1558/bobby-shaw",
+                            "uid": "",
+                            "lastName": "Shaw"
+                        },
+                        "value": 68
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-12-27T18:30Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "17",
+                        "abbrev": "NE",
+                        "displayName": "New England Patriots",
+                        "shortDisplayName": "New England Patriots",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Patriots",
+                        "location": "New England",
+                        "links": "/nfl/team/_/name/ne/new-england-patriots",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-12-27T18:30Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231227017/bills-patriots",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "0",
+                        "opponentTeamScore": "31",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/231227017/bills-patriots",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-12-27T18:30Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/231227017/bills-patriots",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "6-10",
+                    "seasonType": {
+                        "id": "2",
+                        "type": 2,
+                        "name": "Regular Season",
+                        "abbreviation": "reg"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 17,
+                        "text": "Week 17",
+                        "display": 17
+                    },
+                    "passingLeader": {
+                        "athlete": {
+                            "shortName": "T. Brown",
+                            "name": "Travis Brown",
+                            "href": "http://www.espn.com/nfl/player/_/id/2519/travis-brown",
+                            "uid": "",
+                            "lastName": "Brown"
+                        },
+                        "value": 119
+                    },
+                    "rushingLeader": {
+                        "athlete": {
+                            "shortName": "T. Henry",
+                            "name": "Travis Henry",
+                            "href": "http://www.espn.com/nfl/player/_/id/2606/travis-henry",
+                            "uid": "",
+                            "lastName": "Henry"
+                        },
+                        "value": 62
+                    },
+                    "receivingLeader": {
+                        "athlete": {
+                            "shortName": "E. Moulds",
+                            "name": "Eric Moulds",
+                            "href": "http://www.espn.com/nfl/player/_/id/935/eric-moulds",
+                            "uid": "",
+                            "lastName": "Moulds"
+                        },
+                        "value": 55
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "season": 2003,
+        "seasonType": {
+            "id": "1",
+            "type": 1,
+            "name": "Preseason",
+            "abbreviation": "pre"
+        },
+        "title": "Preseason",
+        "notes": "",
+        "events": {
+            "pre": [],
+            "post": [
+                {
+                    "date": {
+                        "date": "2003-08-10T00:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "33",
+                        "abbrev": "BAL",
+                        "displayName": "Baltimore Ravens",
+                        "shortDisplayName": "Baltimore Ravens",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Ravens",
+                        "location": "Baltimore",
+                        "links": "/nfl/team/_/name/bal/baltimore-ravens",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-08-10T00:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230809033/bills-ravens",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "20",
+                        "opponentTeamScore": "19",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230809033/bills-ravens",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-08-10T00:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230809033/bills-ravens",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "1-0",
+                    "seasonType": {
+                        "id": "1",
+                        "type": 1,
+                        "name": "Preseason",
+                        "abbreviation": "pre"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 1,
+                        "text": "Hall of Fame Weekend",
+                        "display": "HOF"
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-08-17T00:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "10",
+                        "abbrev": "TEN",
+                        "displayName": "Tennessee Titans",
+                        "shortDisplayName": "Tennessee Titans",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Titans",
+                        "location": "Tennessee",
+                        "links": "/nfl/team/_/name/ten/tennessee-titans",
+                        "homeAwaySymbol": "@",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-08-17T00:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230816010/bills-titans",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": false,
+                        "isTie": false,
+                        "winLossSymbol": "L",
+                        "currentTeamScore": "24",
+                        "opponentTeamScore": "37",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230816010/bills-titans",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-08-17T00:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230816010/bills-titans",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "1-1",
+                    "seasonType": {
+                        "id": "1",
+                        "type": 1,
+                        "name": "Preseason",
+                        "abbreviation": "pre"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 2,
+                        "text": "Preseason Week 1",
+                        "display": 1
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-08-23T23:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "14",
+                        "abbrev": "STL",
+                        "displayName": "St. Louis Rams",
+                        "shortDisplayName": "St. Louis Rams",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Rams",
+                        "location": "St. Louis",
+                        "links": "/nfl/team/_/name/lar/los-angeles-rams",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-08-23T23:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230823002/rams-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "28",
+                        "opponentTeamScore": "24",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230823002/rams-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-08-23T23:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230823002/rams-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "2-1",
+                    "seasonType": {
+                        "id": "1",
+                        "type": 1,
+                        "name": "Preseason",
+                        "abbreviation": "pre"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 3,
+                        "text": "Preseason Week 2",
+                        "display": 2
+                    }
+                },
+                {
+                    "date": {
+                        "date": "2003-08-28T23:00Z",
+                        "format": "ddd, MMM D",
+                        "formatMobile": "ddd, M/D",
+                        "isTimeTBD": false
+                    },
+                    "opponent": {
+                        "id": "8",
+                        "abbrev": "DET",
+                        "displayName": "Detroit Lions",
+                        "shortDisplayName": "Detroit Lions",
+                        "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+                        "recordSummary": "",
+                        "standingSummary": "",
+                        "nickname": "Lions",
+                        "location": "Detroit",
+                        "links": "/nfl/team/_/name/det/detroit-lions",
+                        "homeAwaySymbol": "vs",
+                        "rank": "",
+                        "neutralSite": false
+                    },
+                    "time": {
+                        "time": "2003-08-28T23:00Z",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230828002/lions-bills",
+                        "state": "post",
+                        "tbd": false,
+                        "format": "h:mm A"
+                    },
+                    "tickets": {
+                        "summary": null,
+                        "link": null
+                    },
+                    "network": [],
+                    "result": {
+                        "winner": true,
+                        "isTie": false,
+                        "winLossSymbol": "W",
+                        "currentTeamScore": "22",
+                        "opponentTeamScore": "16",
+                        "link": "https://www.espn.com/nfl/game/_/gameId/230828002/lions-bills",
+                        "statusId": "3"
+                    },
+                    "timeAndNetwork": {
+                        "time": {
+                            "time": "2003-08-28T23:00Z",
+                            "link": "https://www.espn.com/nfl/game/_/gameId/230828002/lions-bills",
+                            "state": "post",
+                            "tbd": false,
+                            "format": "h:mm A"
+                        },
+                        "network": []
+                    },
+                    "record": "3-1",
+                    "seasonType": {
+                        "id": "1",
+                        "type": 1,
+                        "name": "Preseason",
+                        "abbreviation": "pre"
+                    },
+                    "seasonYear": 2003,
+                    "status": {
+                        "id": "3",
+                        "name": "STATUS_FINAL",
+                        "state": "post",
+                        "completed": true,
+                        "description": "Final",
+                        "detail": "Final",
+                        "shortDetail": "Final"
+                    },
+                    "notes": {},
+                    "competitionKey": "STD",
+                    "competitionName": "Standard",
+                    "week": {
+                        "number": 4,
+                        "text": "Preseason Week 3",
+                        "display": 3
+                    }
+                }
+            ]
+        }
+    }
+]

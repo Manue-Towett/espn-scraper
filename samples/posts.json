@@ -1,0 +1,4115 @@
+[
+    {
+        "date": {
+            "date": "2023-10-26T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "24",
+            "abbrev": "SA",
+            "displayName": "San Antonio Spurs",
+            "shortDisplayName": "San Antonio Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "San Antonio",
+            "links": "/nba/team/_/name/sa/san-antonio-spurs",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-10-26T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584701/mavericks-spurs",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "link": "/watch/",
+                "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                "name": "ESPN"
+            }
+        ],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "126",
+            "opponentTeamScore": "119",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584701/mavericks-spurs",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-10-26T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584701/mavericks-spurs",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "link": "/watch/",
+                    "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                    "name": "ESPN"
+                }
+            ]
+        },
+        "record": "1-0",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 33
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 13
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-10-28T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "17",
+            "abbrev": "BKN",
+            "displayName": "Brooklyn Nets",
+            "shortDisplayName": "Brooklyn Nets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Brooklyn",
+            "links": "/nba/team/_/name/bkn/brooklyn-nets",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-10-28T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584712/nets-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "125",
+            "opponentTeamScore": "120",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584712/nets-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-10-28T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584712/nets-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "2-0",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 49
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 7
+        }
+    },
+    {
+        "date": {
+            "date": "2023-10-31T00:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "29",
+            "abbrev": "MEM",
+            "displayName": "Memphis Grizzlies",
+            "shortDisplayName": "Memphis Grizzlies",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Memphis",
+            "links": "/nba/team/_/name/mem/memphis-grizzlies",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-10-31T00:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584734/mavericks-grizzlies",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "125",
+            "opponentTeamScore": "110",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584734/mavericks-grizzlies",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-10-31T00:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584734/mavericks-grizzlies",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "3-0",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 35
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 12
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 12
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-02T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "4",
+            "abbrev": "CHI",
+            "displayName": "Chicago Bulls",
+            "shortDisplayName": "Chicago Bulls",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Chicago",
+            "links": "/nba/team/_/name/chi/chicago-bulls",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-02T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584752/bulls-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "114",
+            "opponentTeamScore": "105",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584752/bulls-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-02T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584752/bulls-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "4-0",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "G. Williams",
+                "name": "Grant Williams",
+                "href": "https://www.espn.com/nba/player/_/id/4066218/grant-williams",
+                "uid": "",
+                "lastName": "Williams"
+            },
+            "value": 25
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 13
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-04T02:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "7",
+            "abbrev": "DEN",
+            "displayName": "Denver Nuggets",
+            "shortDisplayName": "Denver Nuggets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Denver",
+            "links": "/nba/team/_/name/den/denver-nuggets",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-04T02:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584094/mavericks-nuggets",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "link": "/watch/",
+                "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                "name": "ESPN"
+            }
+        ],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "114",
+            "opponentTeamScore": "125",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584094/mavericks-nuggets",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-04T02:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584094/mavericks-nuggets",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "link": "/watch/",
+                    "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                    "name": "ESPN"
+                }
+            ]
+        },
+        "record": "4-1",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {
+            "type": "event",
+            "headline": "NBA In-Season Tournament - Group Play"
+        },
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 34
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 8
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-06T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "30",
+            "abbrev": "CHA",
+            "displayName": "Charlotte Hornets",
+            "shortDisplayName": "Charlotte Hornets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Charlotte",
+            "links": "/nba/team/_/name/cha/charlotte-hornets",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-06T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584771/hornets-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "124",
+            "opponentTeamScore": "118",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584771/hornets-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-06T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584771/hornets-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "5-1",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 23
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 14
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-07T00:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "19",
+            "abbrev": "ORL",
+            "displayName": "Orlando Magic",
+            "shortDisplayName": "Orlando Magic",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Orlando",
+            "links": "/nba/team/_/name/orl/orlando-magic",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-07T00:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584775/mavericks-magic",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "117",
+            "opponentTeamScore": "102",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584775/mavericks-magic",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-07T00:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584775/mavericks-magic",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "6-1",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 29
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 6
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-09T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "28",
+            "abbrev": "TOR",
+            "displayName": "Toronto Raptors",
+            "shortDisplayName": "Toronto Raptors",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Toronto",
+            "links": "/nba/team/_/name/tor/toronto-raptors",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-09T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584796/raptors-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "116",
+            "opponentTeamScore": "127",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584796/raptors-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-09T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584796/raptors-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "6-2",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 31
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 7
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 8
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-11T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "12",
+            "abbrev": "LAC",
+            "displayName": "LA Clippers",
+            "shortDisplayName": "LA Clippers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "LA",
+            "links": "/nba/team/_/name/lac/la-clippers",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-11T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584102/clippers-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "144",
+            "opponentTeamScore": "126",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584102/clippers-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-11T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584102/clippers-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "7-2",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {
+            "type": "event",
+            "headline": "NBA In-Season Tournament - Group Play"
+        },
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 44
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Jones Jr.",
+                "name": "Derrick Jones Jr.",
+                "href": "https://www.espn.com/nba/player/_/id/3936099/derrick-jones-jr",
+                "uid": "",
+                "lastName": "Jones Jr."
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 6
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-13T00:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "3",
+            "abbrev": "NO",
+            "displayName": "New Orleans Pelicans",
+            "shortDisplayName": "New Orleans Pelicans",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "New Orleans",
+            "links": "/nba/team/_/name/no/new-orleans-pelicans",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-13T00:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584811/mavericks-pelicans",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "136",
+            "opponentTeamScore": "124",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584811/mavericks-pelicans",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-13T00:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584811/mavericks-pelicans",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "8-2",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 35
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Powell",
+                "name": "Dwight Powell",
+                "href": "https://www.espn.com/nba/player/_/id/2531367/dwight-powell",
+                "uid": "",
+                "lastName": "Powell"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 9
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-15T01:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "3",
+            "abbrev": "NO",
+            "displayName": "New Orleans Pelicans",
+            "shortDisplayName": "New Orleans Pelicans",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "New Orleans",
+            "links": "/nba/team/_/name/no/new-orleans-pelicans",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-15T01:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584110/mavericks-pelicans",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "110",
+            "opponentTeamScore": "131",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584110/mavericks-pelicans",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-15T01:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584110/mavericks-pelicans",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "8-3",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {
+            "type": "event",
+            "headline": "NBA In-Season Tournament - Group Play"
+        },
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 17
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 6
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-16T00:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "27",
+            "abbrev": "WSH",
+            "displayName": "Washington Wizards",
+            "shortDisplayName": "Washington Wizards",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Washington",
+            "links": "/nba/team/_/name/wsh/washington-wizards",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-16T00:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584820/mavericks-wizards",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "130",
+            "opponentTeamScore": "117",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584820/mavericks-wizards",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-16T00:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584820/mavericks-wizards",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "9-3",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "T. Hardaway Jr.",
+                "name": "Tim Hardaway Jr.",
+                "href": "https://www.espn.com/nba/player/_/id/2528210/tim-hardaway-jr",
+                "uid": "",
+                "lastName": "Hardaway Jr."
+            },
+            "value": 31
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-19T01:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "15",
+            "abbrev": "MIL",
+            "displayName": "Milwaukee Bucks",
+            "shortDisplayName": "Milwaukee Bucks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Milwaukee",
+            "links": "/nba/team/_/name/mil/milwaukee-bucks",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-19T01:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584833/mavericks-bucks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "name": "NBA TV"
+            }
+        ],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "125",
+            "opponentTeamScore": "132",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584833/mavericks-bucks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-19T01:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584833/mavericks-bucks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "name": "NBA TV"
+                }
+            ]
+        },
+        "record": "9-4",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 39
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 9
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-20T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "23",
+            "abbrev": "SAC",
+            "displayName": "Sacramento Kings",
+            "shortDisplayName": "Sacramento Kings",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Sacramento",
+            "links": "/nba/team/_/name/sac/sacramento-kings",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-20T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584840/kings-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "113",
+            "opponentTeamScore": "129",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584840/kings-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-20T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584840/kings-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "9-5",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 25
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 7
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-23T03:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "13",
+            "abbrev": "LAL",
+            "displayName": "Los Angeles Lakers",
+            "shortDisplayName": "Los Angeles Lakers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Los Angeles",
+            "links": "/nba/team/_/name/lal/los-angeles-lakers",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-23T03:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584866/mavericks-lakers",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "104",
+            "opponentTeamScore": "101",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584866/mavericks-lakers",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-23T03:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584866/mavericks-lakers",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "10-5",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 30
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 12
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 8
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-26T03:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "12",
+            "abbrev": "LAC",
+            "displayName": "LA Clippers",
+            "shortDisplayName": "LA Clippers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "LA",
+            "links": "/nba/team/_/name/lac/la-clippers",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-26T03:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584872/mavericks-clippers",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "name": "NBA TV"
+            }
+        ],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "88",
+            "opponentTeamScore": "107",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584872/mavericks-clippers",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-26T03:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584872/mavericks-clippers",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "name": "NBA TV"
+                }
+            ]
+        },
+        "record": "10-6",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 30
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Exum",
+                "name": "Dante Exum",
+                "href": "https://www.espn.com/nba/player/_/id/3102528/dante-exum",
+                "uid": "",
+                "lastName": "Exum"
+            },
+            "value": 8
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 4
+        }
+    },
+    {
+        "date": {
+            "date": "2023-11-29T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "10",
+            "abbrev": "HOU",
+            "displayName": "Houston Rockets",
+            "shortDisplayName": "Houston Rockets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Houston",
+            "links": "/nba/team/_/name/hou/houston-rockets",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-11-29T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584147/rockets-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "121",
+            "opponentTeamScore": "115",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584147/rockets-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-11-29T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584147/rockets-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "11-6",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {
+            "type": "event",
+            "headline": "NBA In-Season Tournament - Group Play"
+        },
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 41
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 9
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-02T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "29",
+            "abbrev": "MEM",
+            "displayName": "Memphis Grizzlies",
+            "shortDisplayName": "Memphis Grizzlies",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Memphis",
+            "links": "/nba/team/_/name/mem/memphis-grizzlies",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-02T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584905/grizzlies-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "94",
+            "opponentTeamScore": "108",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584905/grizzlies-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-02T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584905/grizzlies-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "11-7",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "G. Williams",
+                "name": "Grant Williams",
+                "href": "https://www.espn.com/nba/player/_/id/4066218/grant-williams",
+                "uid": "",
+                "lastName": "Williams"
+            },
+            "value": 16
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "G. Williams",
+                "name": "Grant Williams",
+                "href": "https://www.espn.com/nba/player/_/id/4066218/grant-williams",
+                "uid": "",
+                "lastName": "Williams"
+            },
+            "value": 8
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 5
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-03T02:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "25",
+            "abbrev": "OKC",
+            "displayName": "Oklahoma City Thunder",
+            "shortDisplayName": "Oklahoma City Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Oklahoma City",
+            "links": "/nba/team/_/name/okc/oklahoma-city-thunder",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-03T02:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584915/thunder-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "120",
+            "opponentTeamScore": "126",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584915/thunder-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-03T02:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584915/thunder-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "11-8",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 36
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 16
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 18
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-07T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "26",
+            "abbrev": "UTAH",
+            "displayName": "Utah Jazz",
+            "shortDisplayName": "Utah Jazz",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Utah",
+            "links": "/nba/team/_/name/utah/utah-jazz",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-07T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401616467/jazz-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "147",
+            "opponentTeamScore": "97",
+            "link": "https://www.espn.com/nba/game/_/gameId/401616467/jazz-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-07T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401616467/jazz-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "12-8",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 40
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 11
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-09T03:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "22",
+            "abbrev": "POR",
+            "displayName": "Portland Trail Blazers",
+            "shortDisplayName": "Portland Trail Blazers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Portland",
+            "links": "/nba/team/_/name/por/portland-trail-blazers",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-09T03:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401616480/mavericks-trail-blazers",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "125",
+            "opponentTeamScore": "112",
+            "link": "https://www.espn.com/nba/game/_/gameId/401616480/mavericks-trail-blazers",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-09T03:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401616480/mavericks-trail-blazers",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "13-8",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 32
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-12T01:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "29",
+            "abbrev": "MEM",
+            "displayName": "Memphis Grizzlies",
+            "shortDisplayName": "Memphis Grizzlies",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Memphis",
+            "links": "/nba/team/_/name/mem/memphis-grizzlies",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-12T01:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584927/mavericks-grizzlies",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "name": "NBA TV"
+            }
+        ],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "120",
+            "opponentTeamScore": "113",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584927/mavericks-grizzlies",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-12T01:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584927/mavericks-grizzlies",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "name": "NBA TV"
+                }
+            ]
+        },
+        "record": "14-8",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 35
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 16
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 6
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-13T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "13",
+            "abbrev": "LAL",
+            "displayName": "Los Angeles Lakers",
+            "shortDisplayName": "Los Angeles Lakers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Los Angeles",
+            "links": "/nba/team/_/name/lal/los-angeles-lakers",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-13T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584934/lakers-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "name": "TNT"
+            }
+        ],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "127",
+            "opponentTeamScore": "125",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584934/lakers-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-13T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584934/lakers-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "name": "TNT"
+                }
+            ]
+        },
+        "record": "15-8",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 33
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 8
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 17
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-15T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "16",
+            "abbrev": "MIN",
+            "displayName": "Minnesota Timberwolves",
+            "shortDisplayName": "Minnesota Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Minnesota",
+            "links": "/nba/team/_/name/min/minnesota-timberwolves",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-15T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584949/timberwolves-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "101",
+            "opponentTeamScore": "119",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584949/timberwolves-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-15T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584949/timberwolves-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "15-9",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 39
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 6
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 13
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-17T02:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "22",
+            "abbrev": "POR",
+            "displayName": "Portland Trail Blazers",
+            "shortDisplayName": "Portland Trail Blazers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Portland",
+            "links": "/nba/team/_/name/por/portland-trail-blazers",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-17T02:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584969/mavericks-trail-blazers",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "131",
+            "opponentTeamScore": "120",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584969/mavericks-trail-blazers",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-17T02:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584969/mavericks-trail-blazers",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "16-9",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 40
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 12
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-19T02:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "7",
+            "abbrev": "DEN",
+            "displayName": "Denver Nuggets",
+            "shortDisplayName": "Denver Nuggets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Denver",
+            "links": "/nba/team/_/name/den/denver-nuggets",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-19T02:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584984/mavericks-nuggets",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "name": "NBA TV"
+            }
+        ],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "104",
+            "opponentTeamScore": "130",
+            "link": "https://www.espn.com/nba/game/_/gameId/401584984/mavericks-nuggets",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-19T02:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401584984/mavericks-nuggets",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "name": "NBA TV"
+                }
+            ]
+        },
+        "record": "16-10",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 38
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 11
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 8
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-21T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "12",
+            "abbrev": "LAC",
+            "displayName": "LA Clippers",
+            "shortDisplayName": "LA Clippers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "LA",
+            "links": "/nba/team/_/name/lac/la-clippers",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-21T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585000/clippers-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "111",
+            "opponentTeamScore": "120",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585000/clippers-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-21T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585000/clippers-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "16-11",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 28
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-23T01:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "10",
+            "abbrev": "HOU",
+            "displayName": "Houston Rockets",
+            "shortDisplayName": "Houston Rockets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Houston",
+            "links": "/nba/team/_/name/hou/houston-rockets",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-23T01:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585013/mavericks-rockets",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "96",
+            "opponentTeamScore": "122",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585013/mavericks-rockets",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-23T01:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585013/mavericks-rockets",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "16-12",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "O. Prosper",
+                "name": "Olivier-Maxence Prosper",
+                "href": "https://www.espn.com/nba/player/_/id/4595400/olivier-maxence-prosper",
+                "uid": "",
+                "lastName": "Prosper"
+            },
+            "value": 20
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "R. Holmes",
+                "name": "Richaun Holmes",
+                "href": "https://www.espn.com/nba/player/_/id/2993370/richaun-holmes",
+                "uid": "",
+                "lastName": "Holmes"
+            },
+            "value": 8
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "D. Dennis",
+                "name": "Dexter Dennis",
+                "href": "https://www.espn.com/nba/player/_/id/4396676/dexter-dennis",
+                "uid": "",
+                "lastName": "Dennis"
+            },
+            "value": 4
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-24T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "24",
+            "abbrev": "SA",
+            "displayName": "San Antonio Spurs",
+            "shortDisplayName": "San Antonio Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "San Antonio",
+            "links": "/nba/team/_/name/sa/san-antonio-spurs",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-24T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585026/spurs-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "144",
+            "opponentTeamScore": "119",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585026/spurs-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-24T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585026/spurs-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "17-12",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 39
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 12
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-26T03:43Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "21",
+            "abbrev": "PHX",
+            "displayName": "Phoenix Suns",
+            "shortDisplayName": "Phoenix Suns",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Phoenix",
+            "links": "/nba/team/_/name/phx/phoenix-suns",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-26T03:43Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585033/mavericks-suns",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "link": "/watch/",
+                "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                "name": "ESPN"
+            }
+        ],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "128",
+            "opponentTeamScore": "114",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585033/mavericks-suns",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-26T03:43Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585033/mavericks-suns",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "link": "/watch/",
+                    "logo": "https://a.espncdn.com/redesign/assets/img/logos/networks/espn-red@2x.png",
+                    "name": "ESPN"
+                }
+            ]
+        },
+        "record": "18-12",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 50
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 15
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-28T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "5",
+            "abbrev": "CLE",
+            "displayName": "Cleveland Cavaliers",
+            "shortDisplayName": "Cleveland Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Cleveland",
+            "links": "/nba/team/_/name/cle/cleveland-cavaliers",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-28T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585048/cavaliers-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "110",
+            "opponentTeamScore": "113",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585048/cavaliers-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-28T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585048/cavaliers-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "18-13",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 39
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 7
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 6
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-29T01:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "16",
+            "abbrev": "MIN",
+            "displayName": "Minnesota Timberwolves",
+            "shortDisplayName": "Minnesota Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Minnesota",
+            "links": "/nba/team/_/name/min/minnesota-timberwolves",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-29T01:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585051/mavericks-timberwolves",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "110",
+            "opponentTeamScore": "118",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585051/mavericks-timberwolves",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-29T01:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585051/mavericks-timberwolves",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "18-14",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "T. Hardaway Jr.",
+                "name": "Tim Hardaway Jr.",
+                "href": "https://www.espn.com/nba/player/_/id/2528210/tim-hardaway-jr",
+                "uid": "",
+                "lastName": "Hardaway Jr."
+            },
+            "value": 32
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Powell",
+                "name": "Dwight Powell",
+                "href": "https://www.espn.com/nba/player/_/id/2531367/dwight-powell",
+                "uid": "",
+                "lastName": "Powell"
+            },
+            "value": 14
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "D. Powell",
+                "name": "Dwight Powell",
+                "href": "https://www.espn.com/nba/player/_/id/2531367/dwight-powell",
+                "uid": "",
+                "lastName": "Powell"
+            },
+            "value": 6
+        }
+    },
+    {
+        "date": {
+            "date": "2023-12-31T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "9",
+            "abbrev": "GS",
+            "displayName": "Golden State Warriors",
+            "shortDisplayName": "Golden State Warriors",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Golden State",
+            "links": "/nba/team/_/name/gs/golden-state-warriors",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2023-12-31T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585072/mavericks-warriors",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "132",
+            "opponentTeamScore": "122",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585072/mavericks-warriors",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2023-12-31T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585072/mavericks-warriors",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "19-14",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 39
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Lively II",
+                "name": "Dereck Lively II",
+                "href": "https://www.espn.com/nba/player/_/id/4683688/dereck-lively-ii",
+                "uid": "",
+                "lastName": "Lively II"
+            },
+            "value": 14
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 10
+        }
+    },
+    {
+        "date": {
+            "date": "2024-01-02T02:00Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "26",
+            "abbrev": "UTAH",
+            "displayName": "Utah Jazz",
+            "shortDisplayName": "Utah Jazz",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Utah",
+            "links": "/nba/team/_/name/utah/utah-jazz",
+            "homeAwaySymbol": "@",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2024-01-02T02:00Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585085/mavericks-jazz",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "90",
+            "opponentTeamScore": "127",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585085/mavericks-jazz",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2024-01-02T02:00Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585085/mavericks-jazz",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "19-15",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 19
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 14
+        }
+    },
+    {
+        "date": {
+            "date": "2024-01-04T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "22",
+            "abbrev": "POR",
+            "displayName": "Portland Trail Blazers",
+            "shortDisplayName": "Portland Trail Blazers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Portland",
+            "links": "/nba/team/_/name/por/portland-trail-blazers",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2024-01-04T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585100/trail-blazers-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "126",
+            "opponentTeamScore": "97",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585100/trail-blazers-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2024-01-04T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585100/trail-blazers-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "20-15",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 41
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 5
+        }
+    },
+    {
+        "date": {
+            "date": "2024-01-06T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "22",
+            "abbrev": "POR",
+            "displayName": "Portland Trail Blazers",
+            "shortDisplayName": "Portland Trail Blazers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Portland",
+            "links": "/nba/team/_/name/por/portland-trail-blazers",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2024-01-06T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585115/trail-blazers-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "139",
+            "opponentTeamScore": "103",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585115/trail-blazers-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2024-01-06T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585115/trail-blazers-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "21-15",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 24
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "J. Hardy",
+                "name": "Jaden Hardy",
+                "href": "https://www.espn.com/nba/player/_/id/4868423/jaden-hardy",
+                "uid": "",
+                "lastName": "Hardy"
+            },
+            "value": 9
+        }
+    },
+    {
+        "date": {
+            "date": "2024-01-08T00:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "16",
+            "abbrev": "MIN",
+            "displayName": "Minnesota Timberwolves",
+            "shortDisplayName": "Minnesota Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Minnesota",
+            "links": "/nba/team/_/name/min/minnesota-timberwolves",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2024-01-08T00:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585129/timberwolves-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "115",
+            "opponentTeamScore": "108",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585129/timberwolves-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2024-01-08T00:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585129/timberwolves-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "22-15",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 35
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Jones Jr.",
+                "name": "Derrick Jones Jr.",
+                "href": "https://www.espn.com/nba/player/_/id/3936099/derrick-jones-jr",
+                "uid": "",
+                "lastName": "Jones Jr."
+            },
+            "value": 10
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 8
+        }
+    },
+    {
+        "date": {
+            "date": "2024-01-10T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "29",
+            "abbrev": "MEM",
+            "displayName": "Memphis Grizzlies",
+            "shortDisplayName": "Memphis Grizzlies",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "Memphis",
+            "links": "/nba/team/_/name/mem/memphis-grizzlies",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2024-01-10T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585143/grizzlies-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [
+            {
+                "name": "NBA TV"
+            }
+        ],
+        "result": {
+            "winner": false,
+            "isTie": false,
+            "winLossSymbol": "L",
+            "currentTeamScore": "103",
+            "opponentTeamScore": "120",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585143/grizzlies-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2024-01-10T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585143/grizzlies-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": [
+                {
+                    "name": "NBA TV"
+                }
+            ]
+        },
+        "record": "22-16",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 33
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 8
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "L. Doncic",
+                "name": "Luka Doncic",
+                "href": "https://www.espn.com/nba/player/_/id/3945274/luka-doncic",
+                "uid": "",
+                "lastName": "Doncic"
+            },
+            "value": 6
+        }
+    },
+    {
+        "date": {
+            "date": "2024-01-12T01:30Z",
+            "format": "ddd, MMM D",
+            "formatMobile": "ddd, M/D",
+            "isTimeTBD": false
+        },
+        "opponent": {
+            "id": "18",
+            "abbrev": "NY",
+            "displayName": "New York Knicks",
+            "shortDisplayName": "New York Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+            "recordSummary": "",
+            "standingSummary": "",
+            "location": "New York",
+            "links": "/nba/team/_/name/ny/new-york-knicks",
+            "homeAwaySymbol": "vs",
+            "rank": "",
+            "neutralSite": false
+        },
+        "time": {
+            "time": "2024-01-12T01:30Z",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585158/knicks-mavericks",
+            "state": "post",
+            "tbd": false,
+            "format": "h:mm A"
+        },
+        "tickets": {
+            "summary": null,
+            "link": null
+        },
+        "network": [],
+        "result": {
+            "winner": true,
+            "isTie": false,
+            "winLossSymbol": "W",
+            "currentTeamScore": "128",
+            "opponentTeamScore": "124",
+            "link": "https://www.espn.com/nba/game/_/gameId/401585158/knicks-mavericks",
+            "statusId": "3"
+        },
+        "timeAndNetwork": {
+            "time": {
+                "time": "2024-01-12T01:30Z",
+                "link": "https://www.espn.com/nba/game/_/gameId/401585158/knicks-mavericks",
+                "state": "post",
+                "tbd": false,
+                "format": "h:mm A"
+            },
+            "network": []
+        },
+        "record": "23-16",
+        "seasonType": {
+            "id": "2",
+            "type": 2,
+            "name": "Regular Season",
+            "abbreviation": "reg"
+        },
+        "seasonYear": 2024,
+        "status": {
+            "id": "3",
+            "name": "STATUS_FINAL",
+            "state": "post",
+            "completed": true,
+            "description": "Final",
+            "detail": "Final",
+            "shortDetail": "Final"
+        },
+        "notes": {},
+        "competitionKey": "STD",
+        "competitionName": "Standard",
+        "leaderPoints": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 44
+        },
+        "leaderRebounds": {
+            "athlete": {
+                "shortName": "D. Powell",
+                "name": "Dwight Powell",
+                "href": "https://www.espn.com/nba/player/_/id/2531367/dwight-powell",
+                "uid": "",
+                "lastName": "Powell"
+            },
+            "value": 9
+        },
+        "leaderAssists": {
+            "athlete": {
+                "shortName": "K. Irving",
+                "name": "Kyrie Irving",
+                "href": "https://www.espn.com/nba/player/_/id/6442/kyrie-irving",
+                "uid": "",
+                "lastName": "Irving"
+            },
+            "value": 10
+        }
+    }
+]

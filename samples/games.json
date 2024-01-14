@@ -1,0 +1,314 @@
+[
+    {
+        "date": "2023-10-26T01:30Z",
+        "home_team": "DAL",
+        "away_team": "SA",
+        "home_score": "126",
+        "away_score": "119",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-10-28T00:30Z",
+        "home_team": "BKN",
+        "away_team": "DAL",
+        "home_score": "120",
+        "away_score": "125",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-10-31T00:00Z",
+        "home_team": "DAL",
+        "away_team": "MEM",
+        "home_score": "125",
+        "away_score": "110",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-02T00:30Z",
+        "home_team": "CHI",
+        "away_team": "DAL",
+        "home_score": "105",
+        "away_score": "114",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-04T02:00Z",
+        "home_team": "DAL",
+        "away_team": "DEN",
+        "home_score": "114",
+        "away_score": "125",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-06T00:30Z",
+        "home_team": "CHA",
+        "away_team": "DAL",
+        "home_score": "118",
+        "away_score": "124",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-07T00:00Z",
+        "home_team": "DAL",
+        "away_team": "ORL",
+        "home_score": "117",
+        "away_score": "102",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-09T01:30Z",
+        "home_team": "TOR",
+        "away_team": "DAL",
+        "home_score": "127",
+        "away_score": "116",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-11T01:30Z",
+        "home_team": "LAC",
+        "away_team": "DAL",
+        "home_score": "126",
+        "away_score": "144",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-13T00:00Z",
+        "home_team": "DAL",
+        "away_team": "NO",
+        "home_score": "136",
+        "away_score": "124",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-15T01:00Z",
+        "home_team": "DAL",
+        "away_team": "NO",
+        "home_score": "110",
+        "away_score": "131",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-16T00:00Z",
+        "home_team": "DAL",
+        "away_team": "WSH",
+        "home_score": "130",
+        "away_score": "117",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-19T01:00Z",
+        "home_team": "DAL",
+        "away_team": "MIL",
+        "home_score": "125",
+        "away_score": "132",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-20T00:30Z",
+        "home_team": "SAC",
+        "away_team": "DAL",
+        "home_score": "129",
+        "away_score": "113",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-23T03:30Z",
+        "home_team": "DAL",
+        "away_team": "LAL",
+        "home_score": "104",
+        "away_score": "101",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-26T03:30Z",
+        "home_team": "DAL",
+        "away_team": "LAC",
+        "home_score": "88",
+        "away_score": "107",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-11-29T01:30Z",
+        "home_team": "HOU",
+        "away_team": "DAL",
+        "home_score": "115",
+        "away_score": "121",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-02T00:30Z",
+        "home_team": "MEM",
+        "away_team": "DAL",
+        "home_score": "108",
+        "away_score": "94",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-03T02:00Z",
+        "home_team": "OKC",
+        "away_team": "DAL",
+        "home_score": "126",
+        "away_score": "120",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-07T01:30Z",
+        "home_team": "UTAH",
+        "away_team": "DAL",
+        "home_score": "97",
+        "away_score": "147",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-09T03:00Z",
+        "home_team": "DAL",
+        "away_team": "POR",
+        "home_score": "125",
+        "away_score": "112",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-12T01:00Z",
+        "home_team": "DAL",
+        "away_team": "MEM",
+        "home_score": "120",
+        "away_score": "113",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-13T00:30Z",
+        "home_team": "LAL",
+        "away_team": "DAL",
+        "home_score": "125",
+        "away_score": "127",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-15T01:30Z",
+        "home_team": "MIN",
+        "away_team": "DAL",
+        "home_score": "119",
+        "away_score": "101",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-17T02:00Z",
+        "home_team": "DAL",
+        "away_team": "POR",
+        "home_score": "131",
+        "away_score": "120",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-19T02:00Z",
+        "home_team": "DAL",
+        "away_team": "DEN",
+        "home_score": "104",
+        "away_score": "130",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-21T01:30Z",
+        "home_team": "LAC",
+        "away_team": "DAL",
+        "home_score": "120",
+        "away_score": "111",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-23T01:00Z",
+        "home_team": "DAL",
+        "away_team": "HOU",
+        "home_score": "96",
+        "away_score": "122",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-24T01:30Z",
+        "home_team": "SA",
+        "away_team": "DAL",
+        "home_score": "119",
+        "away_score": "144",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-26T03:43Z",
+        "home_team": "DAL",
+        "away_team": "PHX",
+        "home_score": "128",
+        "away_score": "114",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-28T01:30Z",
+        "home_team": "CLE",
+        "away_team": "DAL",
+        "home_score": "113",
+        "away_score": "110",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-29T01:00Z",
+        "home_team": "DAL",
+        "away_team": "MIN",
+        "home_score": "110",
+        "away_score": "118",
+        "season_year": 2024
+    },
+    {
+        "date": "2023-12-31T01:30Z",
+        "home_team": "DAL",
+        "away_team": "GS",
+        "home_score": "132",
+        "away_score": "122",
+        "season_year": 2024
+    },
+    {
+        "date": "2024-01-02T02:00Z",
+        "home_team": "DAL",
+        "away_team": "UTAH",
+        "home_score": "90",
+        "away_score": "127",
+        "season_year": 2024
+    },
+    {
+        "date": "2024-01-04T01:30Z",
+        "home_team": "POR",
+        "away_team": "DAL",
+        "home_score": "97",
+        "away_score": "126",
+        "season_year": 2024
+    },
+    {
+        "date": "2024-01-06T01:30Z",
+        "home_team": "POR",
+        "away_team": "DAL",
+        "home_score": "103",
+        "away_score": "139",
+        "season_year": 2024
+    },
+    {
+        "date": "2024-01-08T00:30Z",
+        "home_team": "MIN",
+        "away_team": "DAL",
+        "home_score": "108",
+        "away_score": "115",
+        "season_year": 2024
+    },
+    {
+        "date": "2024-01-10T01:30Z",
+        "home_team": "MEM",
+        "away_team": "DAL",
+        "home_score": "120",
+        "away_score": "103",
+        "season_year": 2024
+    },
+    {
+        "date": "2024-01-12T01:30Z",
+        "home_team": "NY",
+        "away_team": "DAL",
+        "home_score": "124",
+        "away_score": "128",
+        "season_year": 2024
+    }
+]
